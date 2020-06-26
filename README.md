@@ -1,5 +1,7 @@
 # autoimagebuild
 
-Setup for an automated image build
+Setup for an automated image build 
 
-A push to this repo would trigger a build
+Busybox is used as the base image
+
+Pushing to master branch triggers autobuild as configured
